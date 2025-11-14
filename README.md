@@ -31,7 +31,7 @@
   	 ```bash
    	sudo apt-get install python3-tk
   	 ```
-   macOS 系统：若需修复 / 更新，通过 Homebrew 执行：
+   macOS 系统：默认已预装，若需修复 / 更新，通过 Homebrew 执行：
     ```bash
     brew install python-tk
     ```
